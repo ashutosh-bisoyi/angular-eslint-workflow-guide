@@ -7,9 +7,4 @@ import { Component } from '@angular/core';
 })
 export default class AppComponent {
   title = 'sample-angular-app';
-
-  sampleFun () {
-    let a;
-    let b;
-  }
 }
