@@ -10,5 +10,6 @@ export default class AppComponent {
 
   sampleFun () {
     let a;
+    let b;
   }
 }
