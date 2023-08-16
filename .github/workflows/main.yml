@@ -2,10 +2,7 @@ name: Standard Angular App Flow
 
 on:
   pull_request:
-    branches:
-      - main
-      - dev
-      - 'release/*'
+    branches: [ "main", "development" ]
 
 jobs:
   lint:
