@@ -1,4 +1,4 @@
-# SampleAngularApp
+# Sample Angular App with Linting and CI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
@@ -9,6 +9,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Lint
+
+The linting setup is based on the [Osmosys's Angular Standard Doc](https://github.com/OsmosysSoftware/dev-standards/blob/main/coding-standards/angular.md).
+
+Run `ng lint` to perform linting on your codebase. Once the process is complete, a comprehensive report of warnings and errors will be displayed in the terminal.
 
 ## Build
 
