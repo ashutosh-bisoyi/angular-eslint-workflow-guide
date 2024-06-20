@@ -1,6 +1,7 @@
 # Sample Angular App with Linting and CI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+Test readme changes
 
 ## Development server
 
